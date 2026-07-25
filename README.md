@@ -1,5 +1,5 @@
 # Tic-Tac-Toe Game
-This is my first web development project. It is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The game allows two players to play by taking turns as X and O.
+This is my first web development project.<br> It is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The game allows two players to play by taking turns as X and O.
 
 ## Features
 - Two-player Tic-Tac-Toe game
@@ -46,6 +46,7 @@ While building this project, I learned:
 
 ## Author
 Amol Kumbhargave
+<br>
 This is my first project, and I will continue building more projects as I learn web development and programming.
 
 ## Thank You
