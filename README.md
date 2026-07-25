@@ -37,13 +37,6 @@ While building this project, I learned:
 - Basic game logic
 - Using Git and GitHub
 
-## Future Improvements
-- Add draw detection
-- Add score tracking
-- Improve the UI
-- Add sound effects
-- Make it mobile-friendly
-
 ## Author
 Amol Kumbhargave
 <br>
