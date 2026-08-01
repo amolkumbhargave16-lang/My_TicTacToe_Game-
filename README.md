@@ -27,7 +27,7 @@ TicTacToe/
 2. Open the `index.html` file in your web browser.
 3. Start playing the game.
 
-##Live Demo
+##Live Demo <br>
 https://ak16tictactoegame.netlify.app/
 
 ## What I Learned
